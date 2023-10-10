@@ -1,0 +1,28 @@
+{
+    "name": "quote-generator",
+    "version": "1.0.0",
+    "description": "A program that prints a quote with selected categories and amounts",
+    "main": "./dist/main.js",
+    "bin": {
+        "quote-gen": "./dist/main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FBI-open-up0126/quote-generator.git"
+    },
+    "keywords": [
+        "quote"
+    ],
+    "author": "Lucas Fan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FBI-open-up0126/quote-generator/issues"
+    },
+    "homepage": "https://github.com/FBI-open-up0126/quote-generator#readme",
+    "dependencies": {
+        "@types/node": "^20.8.4"
+    }
+}
